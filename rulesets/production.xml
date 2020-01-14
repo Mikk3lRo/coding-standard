@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="Mikk3lRo/Production">
+    <description>Coding standards for production code.</description>
+        
+    <rule ref="./common.xml"/>
+</ruleset>

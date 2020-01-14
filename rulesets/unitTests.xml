@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="Mikk3lRo/UnitTests">
+    <description>Coding standards for unit tests.</description>
+        
+    <rule ref="./common.xml"/>
+    
+    <!-- Enforce declaration of test coverage -->
+    <rule ref="./../src/Sniffs/MissingCoversSniff.php" />
+</ruleset>
