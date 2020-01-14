@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-namespace Mikk3lRo\atomix\Tests;
+namespace Mikk3lRo\Tests;
 
 require_once(__DIR__ . '/../vendor/squizlabs/php_codesniffer/tests/bootstrap.php');
 
